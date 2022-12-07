@@ -25,4 +25,4 @@ My name's Sam (he/him) & I'm an experienced software developer from England.
 
 
 - [LinkedIn](https://www.linkedin.com/in/samternent/)
-- [@concords Github](https://github.com/concords)
+- [@concords](https://github.com/concords)
