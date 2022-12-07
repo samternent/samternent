@@ -15,9 +15,8 @@ My name's Sam (he/him) & I'm an experienced software developer from England.
 
 
 - 🛠️ **I like build tools.** I know my way around a build config (be it webpack, rollup or vite) and I prefer to solve problems at build-time wherever possible.
-- 🖋️ **Javascript.** I've been getting paid to write Javascript for over a decade.
+- 💻 **Javascript.** I've been getting paid to write Javascript for over a decade.
 - 🖼️ **I'm framework agnostic.** My preference is Vue, I like Svelte, I can React. _(if you ask nicely you'll find some jquery & knockout knowledge under the hood also)_
-- 💻 I write a lot of code.
 - 🌐 I've worked remotely since 2016.
 
 ---
