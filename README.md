@@ -1,6 +1,6 @@
 # 👋 Hey
 
-My name's Sam (he/him). An experienced software developer from England.
+My name's Sam (he/him), an experienced software developer from England.
 
 ## Highlights
 
