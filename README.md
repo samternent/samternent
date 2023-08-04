@@ -4,7 +4,7 @@ My name's Sam (he/him), an experienced software developer from England.
 
 ## Highlights
 
-- 🦫 I work full-time as a Principal Developer at [Teamwork](https://github.com/Teamwork).
+- 🦫 I work full-time as a Principal Software Engineer at [Teamwork.com](https://github.com/Teamwork).
 - 👨‍💻 I build an open-source social football app at [FootballSocial.app](https://footballsocial.app).
 - 🧬 I run [Team Concords Limited](https://www.teamconcords.com/). An independent software company with an interest in cryptography.
 - 🌐 I've been working remotely since 2016.
