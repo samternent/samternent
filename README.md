@@ -1,31 +1,22 @@
-# Hello, I'm Sam!
+# 👋 Hello, I'm Sam!
 
-A software enthusiast hailing from England, I've been passionately crafting digital experiences for a significant stretch of time.
+An experienced IC Software Developer from England.
 
-## A Swift Glimpse
+- 🦫 I work full-time as a Principal Software Engineer at [Teamwork.com](https://github.com/Teamwork).
+- 👨‍💻 I run an open-source, free-to-play, football predictions app at [FootballSocial.app](https://footballsocial.app).
+- 🌐 I've been working remotely since 2016.
 
-- 🦫 Professionally, I'm a Principal Software Engineer at [Teamwork.com](https://github.com/Teamwork), where I'm orchestrating technological brilliance and innovative solutions.
-- 👨‍💻 Off the clock, I've brought to life [FootballSocial.app](https://footballsocial.app), a dynamic open-source social football app that's capturing the hearts of enthusiasts globally.
-- 🧬 Fueling my independent spirit, I lead [Team Concords Limited](https://www.teamconcords.com/), a venture blending my passion for software with a knack for cryptography.
-- 🌐 Since 2016, I've embraced the world of remote work, seamlessly merging productivity with freedom.
+## Technical
 
----
-
-## Navigating the Tech Terrain
-
-- 🛠️ **Tool Maestro:** I'm adept with the likes of webpack, rollup, and vite – molding build tools to shape and optimize development journeys.
-- 💻 **JavaScript Craftsman:** With over a decade in the field, I craft elegant solutions with the brush of JavaScript, turning concepts into functional beauty.
-- 🖼️ **Framework Journeyman:** While Vue is my sanctuary, Svelte and React are landscapes I navigate fluently. And yes, I hold some older scrolls of jQuery & Knockout too.
+- 🛠️ **I like build tools (and building tools).** I know my way around a build config (be it webpack, rollup or vite) and I love to solve problems at build-time where appropriate.
+- 💻 **Javascript.** I've been getting paid to write Javascript for the client for over a decade. I often use node for tooling and automation, along with any server requirements I have.
+- 💻 **The browser.** I built my first website in 2001. Building for the browser is my core strength.
+- 🖼️ **I'm framework agnostic.** My preference is Vue, I like Svelte, and I can React. _(if you ask nicely you'll find some jquery & knockout knowledge under the hood also)_
+- 💻 **I dabble in dev-ops.** I write GHA workflows, docker & compose (build, deploy, run), CD/CI with changesets, nginx configs, Kubernetes backend services and Vercel CDN front ends.
 
 ---
 
-## Beyond the Screen
+BSc(Hons) - Computer Science (Games Development) - University of Wolverhampton
 
-Beyond the digital realm, you'll find me savouring the outdoors, exploring new coffee blends, and indulging my curiosity in a myriad of subjects. I see each coding challenge as a portal to growth, an opportunity to refine my craft and contribute to the ever-evolving tech tapestry.
-
-Let's Connect:
-
-- [Feel free to reach out on LinkedIn](https://www.linkedin.com/in/samternent/)
-- [Dive into my coding universe on GitHub](https://github.com/samternent/home)
-
-I'm always up for a chat, whether it's about code, coffee, or the next big adventure.
+- [LinkedIn](https://www.linkedin.com/in/samternent/)
+- [samternent/home](https://github.com/samternent/home)
