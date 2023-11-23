@@ -4,6 +4,7 @@ An experienced IC Software Developer from England.
 
 - 🦫 I work full-time as a Principal Software Engineer at [Teamwork.com](https://github.com/Teamwork).
 - 👨‍💻 I run an open-source, free-to-play, football predictions app at [FootballSocial.app](https://footballsocial.app).
+- 🔐 I work on a passion project I call [_"concords ledger"_](https://github.com/samternent/home/blob/main/packages/ledger/src/ledger.ts). Using encryption techniques to build a secure, storage-agnostic data structure.
 - 🌐 I've been working remotely since 2016.
 
 ## Technical
