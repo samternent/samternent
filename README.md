@@ -10,7 +10,7 @@ An experienced IC Software Developer from England.
 ## Technical
 
 - 🛠️ **I like build tools (and building tools).** I know my way around a build config (be it webpack, rollup or vite) and I love to solve problems at build-time where appropriate.
-- 💻 **Javascript.** I've been getting paid to write Javascript for the client for over a decade. I often use node for tooling and automation, along with any server requirements I have.
+- 💻 **Javascript.** I've been earning a living writing Javascript for the client for over a decade. I often use node for tooling and automation, along with any server requirements I have.
 - 💻 **The browser.** I built my first website in 2001. Building for the browser is my core strength.
 - 🖼️ **I'm framework agnostic.** My preference is Vue, I like Svelte, and I can React. _(if you ask nicely you'll find some jquery & knockout knowledge under the hood also)_
 - 💻 **I dabble in dev-ops.** I write GHA workflows, docker & compose (build, deploy, run), CI/CD with changesets/cli, nginx configs, Kubernetes backend services and Vercel CDN front ends.
