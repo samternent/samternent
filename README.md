@@ -14,5 +14,4 @@ This is my personal GitHub account. It contains a mix of active work, experiment
 
 📍 Birmingham, UK  
 🌐 https://ternent.dev  
-📝 Writing on [DEV Community](https://dev.to/ternentdotdev) and [Medium](https://fsasam.medium.com)  
-🚀 Products launched on [Product Hunt](https://www.producthunt.com/@ternentdotdev)
+📝 Writing on [DEV Community](https://dev.to/ternentdotdev)
