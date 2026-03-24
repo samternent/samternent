@@ -2,16 +2,17 @@
 
 Principal Software Engineer at [Teamwork.com](https://www.teamwork.com).
 
-I work on feature development and large, long-lived frontend systems, with an emphasis on architecture, maintainability, and developer experience.
+I work on large, long-lived frontend systems, focusing on architecture, performance, and maintainability.
 
-Alongside my day job, I maintain [**ternent.dev**](https://ternent.dev) — a personal platform backed by a Kubernetes cluster with a frontend deployed via [Vercel](https://vercel.com). The codebase is centralised in a single mono-repo and evolves continuously.
+Alongside my day job, I maintain a personal monorepo, [`home`](https://github.com/samternent/home), which brings together a range of ongoing projects and experiments. This work centres around data integrity, client-side identity, browser-based encryption, and local-first, non-custodial application design.
 
-My personal work often intersects with data integrity, client-side encryption, and cryptographic primitives, alongside general frontend and infrastructure concerns. Some of this work is written about publicly and has been shipped as standalone products.
+Some of these projects are developed into standalone tools and libraries, while others remain exploratory as ideas are tested and refined over time.
 
-This is my personal GitHub account. It contains a mix of active work, experiments, spikes, and older repositories that reflect what I’ve been exploring over time.
+I also run [ternent.dev](https://ternent.dev), where I publish and organise this work.
+
+This GitHub account reflects both active development and longer-term exploration.
 
 ---
 
 📍 Birmingham, UK  
 🌐 https://ternent.dev  
-📝 Writing on [DEV Community](https://dev.to/ternentdotdev)
