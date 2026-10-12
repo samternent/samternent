@@ -14,4 +14,4 @@ This GitHub account reflects both active development and longer-term exploration
 
 ---
 
-🌐 https://ternent.dev  
+https://ternent.dev  
