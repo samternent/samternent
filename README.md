@@ -14,5 +14,4 @@ This GitHub account reflects both active development and longer-term exploration
 
 ---
 
-📍 Birmingham, UK  
 🌐 https://ternent.dev  
